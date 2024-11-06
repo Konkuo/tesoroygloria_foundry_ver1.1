@@ -6,6 +6,6 @@ Para instalar usa el enlace <a href="https://raw.githubusercontent.com/Konkuo/te
 <a href="https://tesoroygloria.com/">¡Por el Tesoro y la Gloria!</a>
 
 
-## IMPORTATE
+## IMPORTANTE
 Este sistema está actualizado hasta la versión 11 de Foundry.
 Es probable que se tenga que "editar" el mundo para reiniciar la contraseña del usuario Gamemaster.
