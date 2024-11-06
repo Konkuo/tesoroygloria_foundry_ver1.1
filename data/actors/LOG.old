@@ -1,0 +1,30 @@
+2024/11/06-20:51:30.858 3258 Recovering log #22
+2024/11/06-20:51:30.863 3258 Level-0 table #24: started
+2024/11/06-20:51:30.880 3258 Level-0 table #24: 939117 bytes OK
+2024/11/06-20:51:30.893 3258 Delete type=0 #22
+2024/11/06-20:51:30.893 3258 Delete type=3 #20
+2024/11/06-21:04:08.551 4ca0 Level-0 table #27: started
+2024/11/06-21:04:08.571 4ca0 Level-0 table #27: 1034273 bytes OK
+2024/11/06-21:04:08.578 4ca0 Delete type=0 #25
+2024/11/06-21:06:51.391 4ca0 Level-0 table #29: started
+2024/11/06-21:06:51.419 4ca0 Level-0 table #29: 219422 bytes OK
+2024/11/06-21:06:51.430 4ca0 Delete type=0 #26
+2024/11/06-21:06:51.476 4ca0 Manual compaction at level-0 from '!actors!0XFJFicN4H1Qq6Wg' @ 72057594037927935 : 1 .. '!actors!zThx6Ch0dwTixy9u' @ 0 : 0; will stop at '!actors!yHhzn2egUSvH97JL' @ 313 : 1
+2024/11/06-21:06:51.478 4ca0 Compacting 4@0 + 1@1 files
+2024/11/06-21:06:51.493 4ca0 Generated table #30@0: 105 keys, 340903 bytes
+2024/11/06-21:06:51.493 4ca0 Compacted 4@0 + 1@1 files => 340903 bytes
+2024/11/06-21:06:51.496 4ca0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/06-21:06:51.496 4ca0 Delete type=2 #19
+2024/11/06-21:06:51.498 4ca0 Delete type=2 #21
+2024/11/06-21:06:51.498 4ca0 Delete type=2 #24
+2024/11/06-21:06:51.498 4ca0 Delete type=2 #27
+2024/11/06-21:06:51.498 4ca0 Delete type=2 #29
+2024/11/06-21:06:51.498 4ca0 Manual compaction at level-0 from '!actors!yHhzn2egUSvH97JL' @ 313 : 1 .. '!actors!zThx6Ch0dwTixy9u' @ 0 : 0; will stop at (end)
+2024/11/06-21:06:51.498 4ca0 Manual compaction at level-1 from '!actors!0XFJFicN4H1Qq6Wg' @ 72057594037927935 : 1 .. '!actors!zThx6Ch0dwTixy9u' @ 0 : 0; will stop at '!actors!zThx6Ch0dwTixy9u' @ 104 : 1
+2024/11/06-21:06:51.498 4ca0 Compacting 1@1 + 1@2 files
+2024/11/06-21:06:51.518 4ca0 Generated table #31@1: 104 keys, 340876 bytes
+2024/11/06-21:06:51.518 4ca0 Compacted 1@1 + 1@2 files => 340876 bytes
+2024/11/06-21:06:51.522 4ca0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/06-21:06:51.522 4ca0 Delete type=2 #5
+2024/11/06-21:06:51.522 4ca0 Delete type=2 #30
+2024/11/06-21:06:51.522 4ca0 Manual compaction at level-1 from '!actors!zThx6Ch0dwTixy9u' @ 104 : 1 .. '!actors!zThx6Ch0dwTixy9u' @ 0 : 0; will stop at (end)
