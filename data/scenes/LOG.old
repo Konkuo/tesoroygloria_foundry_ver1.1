@@ -1,0 +1,5 @@
+2024/11/06-20:51:31.322 7dc Delete type=3 #1
+2024/11/06-21:06:51.370 4ca0 Level-0 table #5: started
+2024/11/06-21:06:51.379 4ca0 Level-0 table #5: 1192 bytes OK
+2024/11/06-21:06:51.384 4ca0 Delete type=0 #3
+2024/11/06-21:06:51.385 4ca0 Manual compaction at level-0 from '!scenes!R46dOKqUDorKy9uK' @ 72057594037927935 : 1 .. '!scenes!R46dOKqUDorKy9uK' @ 0 : 0; will stop at (end)
